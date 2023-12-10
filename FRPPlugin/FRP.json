@@ -1,0 +1,13 @@
+{
+    "Author": "Natalie",
+    "Name": "FFD&DRP System",
+    "Punchline": "A D&D Managent System for RP.",
+    "Description": "testing",
+    "InternalName": "FRPPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "sample",
+        "plugin",
+        "goats"
+    ]
+}
